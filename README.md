@@ -1,3 +1,3 @@
-# Mr Mini Alexa
+# Mr. Mini Alexa
 
-![Alt](https://media.giphy.com/media/mKoT9xTsU5CgAYC67W/giphy.gif)
+<img src="https://media.giphy.com/media/mKoT9xTsU5CgAYC67W/giphy.gif" width="300px">
